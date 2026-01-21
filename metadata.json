@@ -1,0 +1,7 @@
+{
+  "name": "静态表情生成工具（简化版）",
+  "description": "Transform your photos into personalized static and animated stickers. Upload a picture, and MemeGenie's AI will analyze the character to generate custom-themed memes for any occasion.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
