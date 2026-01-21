@@ -1,5 +1,5 @@
 {
-  "name": "静态表情生成工具（简化版）",
+  "name": "aigc-sticker-lite",
   "private": true,
   "version": "0.0.0",
   "type": "module",

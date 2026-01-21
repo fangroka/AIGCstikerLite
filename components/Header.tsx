@@ -10,7 +10,7 @@ const Header: React.FC = () => {
         </svg>
       </div>
       <h1 className="text-3xl md:text-4xl font-bold heading-font mb-2 relative z-10 animate-bounce-slow">
-        MemeSticker AI
+        AIGC-Sticker-Lite
       </h1>
       <p className="text-indigo-50 text-sm md:text-base opacity-90 font-medium relative z-10 max-w-md mx-auto">
         上传形象，瞬间生成极具个性的静态表情包
